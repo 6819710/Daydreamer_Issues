@@ -1,4 +1,4 @@
-# Daydreamer_Issues
+# Daydreamer Beta Testing
 The purpose of this repository is to allow for public tracking of application bugs for the Daydreamer Applicaion avalible for beta testing here:
 https://install.appcenter.ms/users/jpgalovic/apps/daydreamer/distribution_groups/beta%20testers
 
